@@ -1,0 +1,6 @@
+# Environment & IDE
+.env
+__pycache__/
+.vscode/
+node_modules/
+target/
